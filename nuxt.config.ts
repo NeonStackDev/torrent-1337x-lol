@@ -61,7 +61,7 @@ export default defineNuxtConfig({
         {
           innerHTML: `
             var _Hasync = _Hasync || [];
-            _Hasync.push(['Histats.start', '1,4988576,4,0,0,0,00010000']);
+            _Hasync.push(['Histats.start', '1,5053851,4,0,0,0,00011001']);
             _Hasync.push(['Histats.fasi', '1']);
             _Hasync.push(['Histats.track_hits', '']);
             (function() {
@@ -77,7 +77,7 @@ export default defineNuxtConfig({
       ],
       noscript: [
         {
-          innerHTML: '<a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?4988576&101" alt="php hit counter" border="0"></a>'
+          innerHTML: '<a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?5053851&101" alt="free hit counter code" border="0"></a>'
         },
       ],
     }
